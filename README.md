@@ -40,10 +40,10 @@ Download the files or clone the repository.
 TBA
 
 ### Current state of the collection ###
-On 2024-02-04 the collection contains:
+On 2025-08-11 the collection contains:
 
-*  *553* TEI XML documents
-*  *5,718,422* words in texts (metadata and encodings are not counted)
+*  *569* TEI XML documents
+*  *5,817,677* words in texts (metadata and encodings are not counted)
 
 ### Editor ###
 
