@@ -39,8 +39,28 @@ div.search-hit > div.row:nth-child(5) {
   font-size: x-small;
 }
 
+h2.department {
+    font-size: small;
+}
+
 span.dropdown {
     display: inline;
+}
+
+span.author {
+    display: block;
+}
+
+span.add {
+    color: green;
+}
+
+span.corr {
+    color: #556B2F;
+}
+
+span.sic {
+    color: #7C0A02;
 }
 
 
