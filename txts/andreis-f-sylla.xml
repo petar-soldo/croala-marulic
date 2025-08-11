@@ -15,7 +15,7 @@
             <respStmt>
                <resp>Hanc editionem electronicam curavit</resp>
                <persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+                  <ref type="viaf" target="6913774" xml:id="NJ">Neven Jovanović</ref>
                </persName>
             </respStmt>
             <respStmt>
@@ -90,6 +90,16 @@
          <change>
             <persName>
                <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               <ref xml:id="ZS">Zsótér Szabolcs</ref>
+            </persName>
+            <date>2025-08-10</date> versio correctior, iuxta editionem: 
+            Andronicus, Tranquillus Parthenius. Dialogus Sylla. Ed. Zsótér Szabolcs. 
+            SZTE BTK Klasszika-Filológiai és Neolatin Tanszék, Szeged, 2017.
+            Quaternio [37r-38v] nunc recte transpositus!
+         </change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
             </persName>
             <persName>Luka Špoljarić</persName>
             <date>2012-06-12</date>
@@ -145,7 +155,7 @@
                     Pompeius, Minos.</head>
             <sp who="caesar">
                <speaker>CAESAR.</speaker>
-               <p>AN EVAsimus in terram, <sic>uale</sic> Charon; ego ad Plutonem festino. Dii
+               <p><choice><corr resp="#ZS">IAM</corr><orig>AN</orig></choice> EVAsimus in terram, <sic>uale</sic> Charon; ego ad Plutonem festino. Dii
                         immortales, in quod discrimen adduxerat me fortuna, linter putri carie quasi
                         cribrum fathiscit: undique Palus scaturiebat, iam alluebat poplites, ac
                         posteaquam in ripam impegimus, pęne tota cimba dissiliit. Non ita me rabies
@@ -163,11 +173,11 @@
                         ueluti mulierculę, concuti ac (uti aiunt) de gradu deiici. Pręsertim quum
                         fatis eo temporis et loci conpulsus sim, ut neque futura uigore mentis
                         pręcaueri neque casus, si quibus perstringi necesse fuerit, repelli uiribus
-                        aut magnitudine animi queant. <sic>Addeque</sic> precibus et squallori
+                        aut magnitudine animi queant. <choice><orig>Addeque</orig><corr resp="#ZS">Adde quod</corr></choice> precibus et squallori
                         nullus pateat locus. Qui lachrimis flecti possunt adamantina pectora,
                         siquidem ad inferos ne fama quidem (ut audiuimus uulgo circumferri)
                         misericordiae nomen perduxerit? Quo si forte descenderet, ante solio suo
-                        decaederet Pluto, <sic>quem</sic> reciperetur: adeo regnum hoc nihil mite,
+                        decaederet Pluto, <choice><orig>quem</orig><corr resp="#ZS">quam</corr></choice> reciperetur: adeo regnum hoc nihil mite,
                         nihil benignum amplectitur, sed usque quaque seuitiae Tyrannidis in morem
                         indulget. <sic>Iam</sic> haec uallis undique rapidissimis fluminibus et
                         uasta palude circumsępta, nullae naues praeter huius senecionis rimosam
@@ -180,7 +190,7 @@
                         quid possit esse fidum in tanta Tyrannide) ut <corr>insidias,
                         conspirationes</corr>, omnia denique consilia explorent ac deferant ad ipsum
                         principem. Sed o uanam meam mentem ac prorsus immutatam: quam indignas
-                        cogitationes magnitudine Cęsaris <sic>sugessit</sic>: dii faxint ut nihil
+                        cogitationes magnitudine Cęsaris <choice><orig>sugessit</orig><corr resp="#ZS">suggessit</corr></choice>: dii faxint ut nihil
                         minus cupiam, quam aut in ambienda dignitate aliqua deprecandaue contumelia,
                         si qua innocens iniuria perstringar, ante cuiusque pedes uolutari aut
                         refugere, si deposcar in labores, pericula, tormenta, cruciatus, demum
@@ -278,7 +288,7 @@
                <p>Deum immortalem, quid ego uideo, ingens profecto monstrum si uera uisio est:
                     atque utinam somniarem et hoc spectaculum euanidum redderetur. Sed corneis
                     nimirum, non eburneis oculis aspicio: quod me non solum delectatione non afficit,
-                    sed pęne dolore <sic>examinat</sic>, omnes aduersarii primi atque illustres regum ad latus
+                    sed pęne dolore <choice><orig>examinat</orig><corr resp="#NJ">exanimat</corr></choice>, omnes aduersarii primi atque illustres regum ad latus
                     in
 <pb n="xx"/>
 orchestra consederunt: agnosco Syllam, Pompeium eiusque liberos, Catonem,
@@ -318,7 +328,7 @@ et mox defunctum referent inter diuos aris, apud quas uotis se obligent meo
                     potius Sylla ne tecum contendat, siue cum Bruto, quorum dignitas illustriore
                     loco sita est; mecum olim armis decertauit qui reliquos omnes ea tempestate
                     uirtute honoribus auctoritate superaueram: nunc quoque, certus sum, qua mentis
-                    est uecordia, maxime illustria inuasurum. En recta <sic>perficiscit</sic> ad te Sylla, sed
+                    est uecordia, maxime illustria inuasurum. En recta <choice><orig>perficiscit</orig><corr resp="#NJ">proficiscitur</corr></choice> ad te Sylla, sed
                     non reor magnopere timendum, quin nullos secum ueteranos adduxerit.</p>
             </sp>
             <sp who="caesar">
@@ -330,7 +340,7 @@ et mox defunctum referent inter diuos aris, apud quas uotis se obligent meo
                         destinatus est? Nam Brutum minime uidetur ęquum suo loco mouere: non
                         mehercule qui nescio cuius libertatis assertor et uindex fuisse nuncupetur
                         in admodum tenui ciuitate uelut incunabulis nostri amplissimi imperii, sed
-                        cum ob solam antiquitatis <sic>memoria</sic> et admirationem, tum maxime qui
+                        cum ob solam antiquitatis <choice><orig>memoria</orig><corr resp="#ZS">memoriam</corr></choice> et admirationem, tum maxime qui
                         ipso Bruto <sic>consularis</sic> impii auctore hic honor ad nos tamquam per manus
                         traditus peruenerit <pb n="xx"/> quo nostra uirtus non excitata solum,
                         uerum adaucta quoque ac celebris per totum orbem diffusa est.</p>
@@ -478,7 +488,7 @@ adactus sis: circumspice ac perpende singula: omnia, quocumque te uerteris,
                <speaker>
                   <abbr>CAES.</abbr>
                </speaker>
-               <p>Id refert perpendas non quantum tibi redierit ex <sic>s</sic> paternis, sed
+               <p>Id refert perpendas non quantum tibi redierit ex <del resp="#ZS">s</del> paternis, sed
                         quam multa appetieris: quo pacto licet et Gargara conderentur in tuis
                         horreis et fluenta Lydię possideres, tamen ut quispiam Irus egentissimus
                         iudicareris.</p>
@@ -522,14 +532,14 @@ adactus sis: circumspice ac perpende singula: omnia, quocumque te uerteris,
                <speaker>
                   <abbr>SyL.</abbr>
                </speaker>
-               <p>Vtrumque comprobatum Radamanthus <sic>confimauit</sic>: non uides ut inter se
+               <p>Vtrumque comprobatum Radamanthus <choice><orig>confimauit</orig><corr resp="#ZS">confirmauit</corr></choice>: non uides ut inter se
                         diuersi longeque dispares sint? illos uirtus extulit ad laudem: hos ad
                         ignominiam depressit improbitas: illi fructum bene actę uitae capiunt: his
-                        ob iniquitatem <sic>suplicia</sic> non desunt, unde non immerito crebris mei
+                        ob iniquitatem <choice><orig>suplicia</orig><corr resp="#ZS">supplicia</corr></choice> non desunt, unde non immerito crebris mei
                         sapientissimi patris admonitionibus instituebar ut fortunis bonum nomen
                         anteponerem ac potius uirtutem ipsam haurirem quam eius imaginem sectarer.
                         Ad quod me toto animo incumbentem philosophię studium impulit. Et quum duę
-                        uiae se aperuissent, altera quietem, labores altera ostentans.
+                        uiae se aperuissent, altera quietem, labores altera ostentans<corr resp="#ZS">:</corr>
                         <sic>Porro</sic> uitam ociosam, in qua reliquum aetatis cursum procul <pb n="xx"/> a ciuilibus negotiis atque perturbationibus urbanis legendo
                         scribendoque licebat honestissime sanctissimeque transigere, posthabuimus:
                         non hercle quod ignauię repręhensionem metueremus, neque quod illud uiuendi
@@ -537,7 +547,7 @@ adactus sis: circumspice ac perpende singula: omnia, quocumque te uerteris,
                         atque corpori liquet: non inflatur superbia, non pallet inuidia: odio non
                         incenditur, nullis iactatur fluctibus, nullas pelagi uentorumque minas
                         extimescit: atque (quod omnium pulcherrimum existimo) non pendet a libidine
-                        fortunae, sed omnes rationes quum in se <sic>ip-o</sic> collocarit,
+                        fortunae, sed omnes rationes quum in se <choice><orig>ip-o</orig><corr resp="#ZS">ipso</corr></choice> collocarit,
                         iucundissimo sese ocio consolatur. Verum enimuero cogitanti mihi ac
                         diligenter animo prospicienti in quas calamitates et pericula inuidia
                         nouorum et improborum hominum casura esset nostra respublica, uisum est
@@ -600,7 +610,7 @@ adactus sis: circumspice ac perpende singula: omnia, quocumque te uerteris,
                <p>Haud contemnenda (ni fallor) documenta nostrae uirtutis in Gallia reliquimus:
                         neque me poenituisset rerum a me gestarum etiam si nunquam Germanos et
                         Britannos adiissem: unde tamen patrię titulos non mihi quęsiui. Sed alias
-                        quoque <sic>oportunum</sic> erit meum animum ad calculos reuocare, atque in coniecturam
+                        quoque <choice><orig>oportunum</orig><corr resp="#ZS">opportunum</corr></choice> erit meum animum ad calculos reuocare, atque in coniecturam
                         ducere. Quoniam uideris te Libero patri aut Herculi facere parem, peruelim,
                         Sylla, mihi explices primo, si minus tangebare diuitiis (ut ipse iactas) quid
                         bello ciuili proscribebas, quid rapiebas bona ciuium? parum fuit sanguine
@@ -638,20 +648,20 @@ adactus sis: circumspice ac perpende singula: omnia, quocumque te uerteris,
                   <abbr>CAES.</abbr>
                </speaker>
                <p>Opinionem cupiditatis tuę <pb n="xx"/>
-                  <sic>tam</sic> diluisti: inuidię uero, glorię, atque ambitionis uehemens
+                  <choice><orig>tam</orig><corr resp="#ZS">iam</corr></choice> diluisti: inuidię uero, glorię, atque ambitionis uehemens
                         suspitio restat. Quippe si dulcedine laudis non titillabare, cur tanto
                         conatu resistebas <abbr>C.</abbr> Mario ne tua statua una cum monumentis
                         Bocchi regis tolleretur? Pręterea ut cum eodem <abbr>C.</abbr> Mario iam
                         minime uerbis contenderes, uerum etiam armis decertares, profecto non
-                        concitabat amor reipublicę conseruandae, in qua nulla <sic>dum</sic>
+                        concitabat amor reipublicę conseruandae, in qua <sic>nulla dum</sic>
                         nubecula tempestatis apparuerat: sed cum ingens ambitio, tum uetus odium et
                         inuidia honorum Marii; quod si negas quicquam istarum rerum tuum pectus
                         inflammasse, planum facias oportet cur aegre ferebas bello Mithridatico tibi
                         prouinciam eripi Sulpitia rogatione? non dolebas tacito populi iudicio
                         Marium anteferri, quod aptior uideretur, qui potentissimi regis impetum
                         reprimeret bellumque periculosissimum conficeret? siquidem recenti memoria
-                        Iugurtham catenatum ante currum <sic>aegerat</sic>, Cimbros et Theutones
-                        terribili marte ululantes <sic>caeciderat</sic> ad internitionem, atque
+                        Iugurtham catenatum ante currum <choice><orig>aegerat</orig><corr resp="#ZS">egerat</corr></choice>, Cimbros et Theutones
+                        terribili marte ululantes <choice><orig>caeciderat</orig><corr resp="#ZS">ceciderat</corr></choice> ad internitionem, atque
                         posthac spes omnes ciuitatis in Mario fuerunt sitę ut tertius urbis conditor
                         appellaretur.</p>
             </sp>
@@ -672,7 +682,7 @@ siquidem recordatione dolor recrudescit ac ueteris erroris noua pęnitentia
                     exasperare uelim: nam odia omnia contentionesque, quas tecum pro reipublicae
                     dignitate susceperam, diremit mors oblitterauitque. Equidem, Cęsar, <abbr>C.</abbr> Marium
                     semper credidi fortissimum imperatorem et bellicis artibus insignem, sed moribus
-                    et litteris admodum rudem, utpote qui humili natus loco <sic>poene</sic> a pueritia castra
+                    et litteris admodum rudem, utpote qui humili natus loco <choice><orig>poene</orig><corr resp="#ZS">paene</corr></choice> a pueritia castra
                     secutus erat, imperitus ciuilitatis et morum <corr>urbanorum</corr> melius hostem ferire quam
                     rempublicam administrare nouerat: magisque corporis affectibus obedire quam
                     prudentia ueraque fortitudine libidinem animi cohibere consueuerat. Idcirco
@@ -696,7 +706,7 @@ habuerunt. Quamquam haec mortalium natura est ut saepe uanis, interdum etiam
                     superbia, ac inusitatis flagrante cupiditatibus, <corr>ad hoc</corr> spe nouandarum rerum
                     mirabiliter <sic>inflamato</sic> furente
 <pb n="xx"/>
-                  <sic>inque</sic> audacia, patrięque pestem nefarie moliente concurri: non modo meum honorem
+                  <choice><orig>inque</orig><corr resp="#ZS">inquam</corr></choice> audacia, patrięque pestem nefarie moliente concurri: non modo meum honorem
                     tutatus sum, uerum etiam suscepta causa nobilitatis et saluti bonorum prospexi,
                     et uires impotentię uel potius furoris pręcidi. Num putas, Caesar, idque tecum
                     altius expende, satius fuisse me tunc prębere <abbr>C.</abbr> Mario, homini nouo, scelus impium
@@ -722,7 +732,7 @@ habuerunt. Quamquam haec mortalium natura est ut saepe uanis, interdum etiam
                <speaker>
                   <abbr>CAES.</abbr>
                </speaker>
-               <p>Saltem astringas orationem qua <sic>poene</sic> obruor, neque poscit hoc tempus isto
+               <p>Saltem astringas orationem qua <choice><orig>poene</orig><corr resp="#ZS">paene</corr></choice> obruor, neque poscit hoc tempus isto
                         sermone teramus ocium.</p>
             </sp>
             <sp who="sylla">
@@ -805,7 +815,7 @@ habuerunt. Quamquam haec mortalium natura est ut saepe uanis, interdum etiam
                </speaker>
                <p>Illam iacturam ex disiectis monumentis maiorum et memoria generis oblitterata
                         intolerabilem, nedum grauem accępissemus: praestaret meo iudicio uita carere
-                        quam per summam iniuriam in ordinem plebeium coactos amissis ornamentis
+                        quam per summam iniuriam in ordinem plebeium <choice><orig>coactos</orig><corr resp="#ZS">coactus</corr></choice> amissis ornamentis
                         familię infęlicem spiritum trahere. Sed quę sunt ea qua grauiora
                     dixisti?</p>
             </sp>
@@ -853,7 +863,7 @@ Aethiopumque criptas lari patrio non anteferret? profecto non expectaremur donec
                         ciuitatibus eiectam, <sic>fere</sic> obseruatum est eos maxime qui
                             <corr>susceperunt</corr> inquilinos aduenas, grauiter seditionibus
                         iactariue Sybaritę receptis Achęis atque Trezeniis, Thurii quoque iisdem
-                            <sic>Sybarinis</sic>: sic Actisseos, Zancleos, Bysantios, Apolloniatos,
+                            <choice><orig>Sybarinis</orig><corr resp="#ZS">Sybaritis</corr></choice>: sic Actisseos, Zancleos, Bysantios, Apolloniatos,
                         Syracusanos, Amphipolitas hospites aduenae seditionibus uexarunt, alios
                         etiam patria domo eiecerunt. Nuper uero a nostris militibus Messanę facinus
                         secutis optimates oppido Rhegio, non tamen ultionis expertes, fuerunt
@@ -879,7 +889,7 @@ Aethiopumque criptas lari patrio non anteferret? profecto non expectaremur donec
                         siquidem agnoscere uiderer aliquod meum flagitium? neque desiderarentur
                         (ingenia enim hominum paratissima sunt ad maledicendum) qui proditionis,
                         alii rapinarum, alii aliorum criminum (prout cuiusque animus est)
-                        insimularent. <sic>Quos</sic> malum ubi uulgi sermonibus increbuisset, haud
+                        insimularent. <choice><orig>Quos</orig><corr resp="#ZS">Quod</corr></choice> malum ubi uulgi sermonibus increbuisset, haud
                         quaquam innocentia, fide, integritate, nullis bonis artibus, ne testibus
                         quidem ex Iouis tabulis euelli posset: illę primae conceptiones animorum
                         tenacissimę sunt, ac etiam uita functos insequuntur. Quo pacto lucem in
@@ -983,8 +993,8 @@ Aethiopumque criptas lari patrio non anteferret? profecto non expectaremur donec
                   <abbr>SyL.</abbr>
                </speaker>
                <p>Has etiam uictorias cum <abbr>C.</abbr> Mario communes mihi duco: siquidem legatus in his
-                    pręliis haud paruam operam <sic>nauauii</sic>. <corr>Posthac</corr> uictorię Marii conticuerunt, et
-                    belli splendor obsoleuit. At enumera <sic>quiem</sic> ipse in Italia, Sicilia, Graecia, Asia
+                    pręliis haud paruam operam <choice><orig>nauauii</orig><corr resp="#ZS">nauaui</corr></choice>. <corr>Posthac</corr> uictorię Marii conticuerunt, et
+                    belli splendor obsoleuit. At enumera <choice><orig>quiem</orig><corr resp="#ZS">quae</corr></choice> ipse in Italia, Sicilia, Graecia, Asia
                     gesserim, qui semel praelio Marium uicerim, deinde <sic>redditus</sic> fama necarim, ad hęc
                     <abbr>C.</abbr> Marium filium, quem paternę furiae agitarant, ad consciscendam ultro sibi
                     necem compulerim; iam facile intelliges quantum illi uiro antecellam. Atque
@@ -1146,7 +1156,7 @@ Atheniensibus obtinuerunt. Proinde non fuit inferendum in nostra republica adeo
                         igniculis in natura pręcipiant, ut inter se caste atque concorditer aetatem
                         agant, ac ueluti parentes semper ad honestatem incitant. Quod nisi
                         deflectendum esset ab incepto sermone, multo apertius tibi facerem deos
-                            <sic>Apathes</sic> ab omni contagione quam longissime abductos orbem
+                            <choice><orig>Apathes</orig><corr resp="#ZS">apathes</corr></choice> ab omni contagione quam longissime abductos orbem
                         unanimi concordia gubernare: quod praesertim ex stellis certissimo
                         colligitur argumento: quae si uel dii sunt, uel (quod magis putarim) iussa
                         deorum exequuntur, qui mortalibus <pb n="xx"/> inuisibiles <sic>penitissimis
@@ -1174,16 +1184,16 @@ Atheniensibus obtinuerunt. Proinde non fuit inferendum in nostra republica adeo
                     hęc ętas degenerauit, rara documenta
 <pb n="xx"/>
 sanctitatis in principibus apparuere. Tu nunc speras Minoas, Aeacos, et
-                    Rhadamanthos? Quin potius aut Diomeden Thracem, aut Busiridem <sic>Aegiptium</sic>, aut
+                    Rhadamanthos? Quin potius aut Diomeden Thracem, aut Busiridem <choice><orig>Aegiptium</orig><corr resp="#ZS">Aegyptium</corr></choice>, aut
                     aliquem Agrigentinum Phalarim <corr>exspecta</corr>. Ita plęrumque fit, ut hęreditaria
-                    regnorum successio procliuior ad impotentiam et alia scelera quam ulla <sic>tyrannys</sic>
+                    regnorum successio procliuior ad impotentiam et alia scelera quam ulla <choice><orig>tyrannys</orig><corr resp="#ZS">tyrannis</corr></choice>
                     existat: ab Heroibus enim non semidei, sed fere noxę procreantur. Demus tamen
                     quempiam regem natura benignum, liberalem, uirtutis amantissimum: quam citissime
                     lenitatem hanc omnem consilia malorum peruertent. Quid detractores et inuidi?
                     cessabunt aut insecare lingua, aut uirus in auribus principis instillare quoad
                     cuiusque optimi uirtutem reddiderint inuisam? quam ut extinguant, sub specie
                     beniuolentię durissimis <sic>prouinciis</sic> onerabere: uel tibi labores <corr>Herculani</corr>
-                    proponentur uel <sic>Chymere</sic>
+                    proponentur uel <choice><orig>Chymere</orig><corr resp="#ZS">Chimerae</corr></choice>
                   <sic>Bellorophontis</sic> obiicieris, uel ut Iugurtha parentum
                     nostrorum memoria profligare difficillimas bellorum procellas cogeris. Quid si
                     uel iniquitate locorum uel hostium magnitudine, uel arbitrio fortunae, cuius uis
@@ -1213,7 +1223,7 @@ ostendere, aut inermis furorem in republica concitati populi subire? Quicquid
                     ideo conquiescent odia malorum? aut inuidia, felicium rerum alumna, conticescet?
                     Vtinam non irritarentur inuidorum animi aliena gloria, et in uirtutem pestiferos
                     gladios non acuerent: siquidem imprimis honestum arbitrantur magnitudinem
-                    beneficiorum maxima ingratitudine compensare. Non uenit in mentem <sic>Milciadis</sic>
+                    beneficiorum maxima ingratitudine compensare. Non uenit in mentem <choice><orig>Milciadis</orig><corr resp="#ZS">Miltiadis</corr></choice>
                     atque Themistoclis, libertatis <corr>Gręciae</corr> propugnatorum, ut hic ob liberatam patriam
                     in exilio, ille uero in uinculis mori coactus sit? Quid praeterea uirtute
                     Coriolani, quid Camilli, quid <sic>Aphricani</sic>, quid Asiatici
@@ -1223,7 +1233,7 @@ fratris <sic>Aphricani</sic> aut fortius, aut sublimius, aut populo Romano condu
                     bene meritos uariis criminibus in foro atque iudiciis petulantissime proscidit
                     ad iniuste damnauit? Haud aliena mihi quoque merces ab inimicis meis proposita
                     fuerat: qui constituerant, si priuatus redirem postquam utrasque <corr>Gallias</corr>
-                  <sic>decenio</sic>
+                  <choice><orig>decenio</orig><corr resp="#ZS">decennio</corr></choice>
                     potestatis Romanorum fecissem, eorum omnium, quae ad splendorem et decus populi
                     Romani gesseram, circumpositis armis in foro rationem publice redderem. Hac in
                     spe prouincias suscipimus administrandas, et cum hostibus confligimus: haec
@@ -1232,7 +1242,7 @@ fratris <sic>Aphricani</sic> aut fortius, aut sublimius, aut populo Romano condu
                     ciuitate degam. Nulla mehercule seruitutis expers conditio futura est, nec tamen
                     nunc connumerabo rapinas libidines, eorumque, qui ius in alios habent, superbam
                     dominationem, atque alia penę infinita, quae domi grauissima perferuntur. omitto
-                    etiam quoties aerarii nomine luxuria <sic>Satraparum</sic> et auaritia tuis fortunis
+                    etiam quoties aerarii nomine luxuria <choice><orig>Satraparum</orig><corr resp="#ZS">satraparum</corr></choice> et auaritia tuis fortunis
                     explenda sit, illud unicuique luctuosum ac
 <pb n="xx"/>
 in primis tenuioribus ciuibus funestum est quum gerendum erit bellum; non pro
@@ -1255,7 +1265,7 @@ castiges rebelles, superbos excidas, subiectis ignoscas, adsis pręsidis tuam op
                     implorantibus. Tum reges occurrant priuati abiectisque regalibus ornamentis
                     aduoluti tuis genibus sesę ac regna tibi dedant, uitamque una cum dignitate
                     arbitrio tuo summittant: quorum alios tua liberalitas pristinae fortunę
-                    restituat, aliorum perfidia clementiam a te non impetret: insuper hos <sic>distes</sic>,
+                    restituat, aliorum perfidia clementiam a te non impetret: insuper hos <choice><orig>distes</orig><corr resp="#ZS">dites</corr></choice>,
                     illis honores et praefecturas largiaris; in summa, quem libuerit, extollas et
                     pręcipites: Quos fauores hominum senties? quot audies acclamationes? quae uota
                     publice priuatimque pro tua salute suscipientur?</p>
@@ -1275,7 +1285,7 @@ castiges rebelles, superbos excidas, subiectis ignoscas, adsis pręsidis tuam op
                <p>Quicuqid dixeris (qualecunque autem illud fuerit), subductis
                     superciliis <corr>admirabundi</corr> laudabunt: passim praedicabere diuina loqui, tonare
                     etiam et fulgurare: ac uice oraculi sermo tuus per ora populi circumlatus
-                    habebitur. Quum semel toto <sic>trienio</sic> te uniuersę ciuitati ostensurus plateas
+                    habebitur. Quum semel toto <choice><orig>trienio</orig><corr resp="#ZS">triennio</corr></choice> te uniuersę ciuitati ostensurus plateas
                     <sic>obequitabis</sic>, quamuis more <corr>Persarum</corr> uelata facie, tamen uulgum, quasi aliquid
                     augustius humana specie uisurum, dum credit numen quodpiam sub hominis forma
 <pb n="xx"/>
@@ -1338,7 +1348,7 @@ cardinem.</p>
                   <abbr>CAES.</abbr>
                </speaker>
                <p>Praeterea uis amoribus operam impendere, speciosissimę uirgines
-                    adducentur: uescendum est, <sic>Sibariticis</sic> mensis accumbes. Quis prohibet aut
+                    adducentur: uescendum est, <choice><orig>Sibariticis</orig><corr resp="#ZS">Sybariticis</corr></choice> mensis accumbes. Quis prohibet aut
                     <corr>Parthicis</corr> indulgere conuiuiis, aut, quę concupiueris, illico perficere? omnia ex
                     animi sententia ueluti diuina uirgula suppeditantur. Proinde non desistes mihi
                     temeritatis nomen impingere, qui haec affectarim: uide potius ne stolidi sit
@@ -1347,7 +1357,7 @@ cardinem.</p>
                     sapientum haberi, maxime desipiant, ac merito pro gloria pręmium stultitiae
                     reportent. Atque opinor, Sylla, te aliquoties erroris tui pęnituisse: mihi uero ut
                     diuturna possessio tantę fęlicitatis iucundissima fuisset, ita nunc sane męrore
-                    <sic>poene</sic> conficior quod repente fastigio deiectus ad hanc rerum inopiam et
+                    <choice><orig>poene</orig><corr resp="#ZS">paene</corr></choice> conficior quod repente fastigio deiectus ad hanc rerum inopiam et
                     solitudinem (ne manticis quidem relictis) deuolutus sim.</p>
             </sp>
             <sp who="sylla">
@@ -1420,7 +1430,7 @@ hostibus obuiam prędam relinqueret. Porro tibi persuadeas hanc pręrogatiuam
                     Quippe omnia pessum eunt diuinaque non dignoscuntur ab humanis, nisi
 <pb n="xx"/>
                   <sic>his</sic> qui magistratus gerunt non solum a ciuibus iniuriam propulsent, et <corr>malos ab</corr>
-                    inferenda prohibeant, uerum etiam si minus incipientes <sic>a lare</sic>, tum suis
+                    inferenda prohibeant, uerum etiam si minus incipientes <choice><orig>a lare</orig><corr resp="#ZS">a Lare</corr></choice>, tum suis
                     affectibus statuant modum, tum incitatiores cupiditates frenent: quin etiam nisi
                     manus a rapinis, et oculos ab impudico temperauerint aspectu, ad mores
                     potentiorum reliqua multitudo componitur uitamque principis exemplum sibi ac
@@ -1432,7 +1442,7 @@ hostibus obuiam prędam relinqueret. Porro tibi persuadeas hanc pręrogatiuam
                     uidear repręhensione dignior an laude, siquidem minime peregrinis moribus
                     inquinatus per maiorum decurrendo semitas me ipsum uici, meisque commodis et
                     uoluptatibus peperci, ut ea, quę nostrę reipublicae usui essent, mea potissimum
-                    cura, studio, diligentia prospicerentur. <sic>Accaedebat</sic> ratio conseruandae uoluntatis
+                    cura, studio, diligentia prospicerentur. <choice><orig>Accaedebat</orig><corr resp="#ZS">Accedebat</corr></choice> ratio conseruandae uoluntatis
                     eorum quorum collocati meritis eramus in amplissima dignitate. Hi quum imperium
                     Romanum longe latęque
 <pb n="xx"/>
@@ -1458,7 +1468,7 @@ propagassent, inuictum esse (si diis ita uideretur conuenire) uoluerunt: quod
                     imperitos antiquitatis ut non habuerint ante oculos quot amplissima regna
                     potentissimęque respublicę fluxu temporum a stirpe interiissent? Haud aliter
                     sęse humanę res habent ac sydera: haec enim exoriuntur, illa occidunt, ac per
-                    uices imperia <corr>sortiuntur</corr>. Olim regnum <sic>Aegiptiorum</sic> abunde clarum ac gentibus
+                    uices imperia <corr>sortiuntur</corr>. Olim regnum <choice><orig>Aegiptiorum</orig><corr resp="#ZS">Aegyptiorum</corr></choice> abunde clarum ac gentibus
                     formidolosum
 <pb n="xx"/>
 fuit: at hi nunc salutem suam populo Romano commendarunt. Fama est Amazonas
@@ -1617,7 +1627,7 @@ mihi uidetur haec tua de posteritate sollicitudo: quę necessitas allatura est,
                         Seleucus regnum deposuerunt: apud nos Cincinatus a dictatura, Messalla
                         Coruinus ab urbis praefectura se abdicarunt imperium perinde atque
                         naufragium fugientes: <sic>in quo</sic> in numera mala aggeruntur, ad
-                        humilem statum, uelut <sic>asylim</sic> quietis, intimumque sinum pacis et
+                        humilem statum, uelut <choice><orig>asylim</orig><corr resp="#ZS">asylum</corr></choice> quietis, intimumque sinum pacis et
                         ocii, ubi profundissime in utramque aurem dormiendi facultas esset,
                         descenderunt. Posthac animaduerte, Cęsar, an decere tuam grauitatem uideatur
                         unumquodque ex primo <pb n="xx"/> impetu animi de more imperitae plebeculę
@@ -1631,7 +1641,7 @@ mihi uidetur haec tua de posteritate sollicitudo: quę necessitas allatura est,
                   <abbr>CAES.</abbr>
                </speaker>
                <p>Hactenus maledictis respondisti: nunc uero quemadmodum
-                        <sic>polliciberaris</sic>, compara principum <sic>arumnas</sic> una cum
+                        <choice><orig>polliciberaris</orig><corr resp="#ZS">pollicebaris</corr></choice>, compara principum <choice><orig>arumnas</orig><corr resp="#ZS">aerumnas</corr></choice> una cum
                         uoluptatibus.</p>
             </sp>
             <sp who="sylla">
@@ -1668,7 +1678,7 @@ mihi uidetur haec tua de posteritate sollicitudo: quę necessitas allatura est,
                         magna rerum affluentia summaque tranquillitate ad finem extremum deducerent.
                         Atqui proponant necesse est publicam incolumitatem communiaque commoda sibi
                         prospicienda, augenda et conseruanda esse: ut quum ipsi
-                        <sic>iugularint</sic>, atque animum tutelę suorum intenderint, urbibus atque
+                        <choice><orig>iugularint</orig><corr resp="#ZS">uigilarint</corr></choice>, atque animum tutelę suorum intenderint, urbibus atque
                         prouinciis esse quęsita salus et securitas uideantur. Quę si patribus
                         familias negligenda non sunt et gubernatores magnopere student, ut suam
                         quisque nauim incolumen in portum appellat (interim nullum tempus sine
@@ -1679,7 +1689,7 @@ mihi uidetur haec tua de posteritate sollicitudo: quę necessitas allatura est,
                         recessu, uel si depręhensus in mari fuerit impauidus pręuisas excipiat et
                         facilius euadat. Hic urit Malea: <corr>Symplegades</corr> illic formidantur:
                         alibi Sytes et Siculi <corr>freti</corr> uortices pectus exanimant: ad haec
-                        fluctibus inter se concurrentibus uehementer angit. <sic>Experuceras</sic>:
+                        fluctibus inter se concurrentibus uehementer angit <choice><orig>Experuceras</orig><corr resp="#ZS">Hesperuceras</corr></choice>:
                         iam arę sub undis depressę: iam instabiles arenarum cumuli et pręruptę moles
                         in coelum pertingentes, aliaque <pb n="xx"/> huiusmodi curis assiduis
                         pensitanda, quibus nauarchi uelut exitialibus colubris impallescunt). quid
@@ -1736,15 +1746,110 @@ mihi uidetur haec tua de posteritate sollicitudo: quę necessitas allatura est,
                     quouis genere flagitiorum clementiae partes <corr>concedendas</corr> esse. Caeterum ubi
                     nimia lenitate mei animi scelerum impunitas in meum caput recidit, opinor
                     maiorem in huiusmodi casibus uitae rationem oportere haberi, quam opinionis
-                    uulgi cum in <corr>molitiem</corr>
-                  <!-- nešto fali! -->
+                    uulgi cum in omni
+                  <pb n="xx"/>
+                  re facili iudicio, tum in alienis negociis ęstimandis incredibili temeritate
+                  uanaque ac inconsulta persuasione sępius ad poenitentiam usque laborantis: nam
+                  quos uenia dignos ob tenuem suspitionem arbitraris, ualentiores ad spes
+                  perficiendas indulgendo efficis: atque etiam quum suspecti habeantur, maturius
+                  metu se liberare uel periculoso facinore coguntur. Tunc illud pulcherrimum donum
+                  Cyclopis exemplo in pręmium benignitatis exitio proprio breui compensandum. Et
+                  quamuis complures a sumenda de scelerosis hominibus pęna causę cohiberent, ne
+                  tamen pendeas animi ac subinde circumspectes (quum pręsertim audierim uulgo
+                  dici malum esse custodem diuturnitatis metum), omnia ferro, flamma, ruina excidenda
+                  sunt, unde aliqua periculi suspitio apparuerit. </p>
+            </sp>
+            <sp who="sylla">
+               <speaker>
+                  SyLLA.</speaker>
+               <p>Recte ais, o Caesar,
+                  quando multa sunt in uita hominum turpiter et calamitose neglecta, emendatione
+                  tamen aliqua corrigi possunt: istius autem sceleris, si pręsens occasio
+                  negligatur, postea quum tanti ueneni uis continenter uetustate inualescens per
+                  capita multorum demanarit, nequicquam recuperandę facultas desiderabitur. At
+                  uereor ut omnibus abominantibus ac etiam extimescentibus tuam crudelitatem
+                  dicaris
+                  <pb n="xx"/>
+                  non obuiam ire flagitiis et improborum hominum ferociam legibus contundere,
+                  uerum plęraque fama circumferetur uel rapacitatis studio, uel inata sęuitia te
+                  caedibus in bonos ciues grassari, nec temperaturum ab huiusmodi feritate quoad
+                  uel unus supersit cuius uirtus formidolosa uideatur. Qua in spe uiuet populus
+                  singulis momentis expectans ad supplicia rapi? applaudent alacres tibi cruento
+                  sanguine popularium ac truculentissimae <corr>tygridis</corr> in morem saeuientis? quinimmo
+                  clandestinis imprecationibus deuouebunt et ex singulorum formidine commune
+                  odium in tyrannum procreabitur.</p>
+            </sp>
+            <sp who="caesar">
+               <speaker>
+                  CAESAR.</speaker>
+               <p> Oderint dum metuant: <corr>quę uis</corr> enim
+                  extimescenda est quum assistant delectarum cohortium praesidia,
+                  fortimissimisque stipatoribus latera circundentur?</p>
+            </sp>
+            <sp who="sylla">
+               <speaker>
+                  <abbr>SyL.</abbr>
+               </speaker>
+               <p>Falsus es, Caesar, ac toto (uti ferunt) aberras cęlo: siquidem ad tuendum et
+                  conseruandum regni statum nihil esse tam firmum, tam stabile, saepe
+                  compertum fuit, neque classes, neque exercitus, neque bellicas machinas,
+                  neque cum ingentibus thesauris arces munitissimas, quam est subditorum fauor
+                  atque beneuolentia; quę tamen cum plurimis beneficiis, tum uero iustis
+                  imperiis, et imprimis obsequio atque facilitate demerenda <pb n="xx"/> sunt:
+                  nihil aeque pestiferum gubernatoribus urbium arbitramur ac ubi ciuitas
+                  percussa metu odio in ipsum principem accenditur: scilicet ullę uires
+                  obstabunt quo minus imperio deiiciatur? dehinc extorris amissa patria et
+                  domo, si forte cum spiritu euaserit, miseram uitam exigat? certe nullę
+                  Dionysio Syracusano deerant opes ad stabiliendam tyrannidem pręter amorem
+                  ciuium, quamobrem turpiter eiectus <corr>apud</corr> alienos in sua
+                  calamitosa senectute ludibrio habitus est: nonne Macedones ob superbam
+                  dominationem Demetrium in bello deseruerunt? nunquid etiam simili de causa
+                  Tarquinius a nostris urbe non fuit exclusus? Caeterum inde facilius
+                  <sic>connicere</sic> licet quam friuolę sint opes tyrannorum, quippe
+                  triginta <sic>senissimi</sic> tyranni non potuerunt Athenis Thrasybulo, ciui
+                  exuli, resistere: ac (ut nostra rursus cum externis coniungamus) Romę
+                  decemuiris tyrannidem exercentibus haud cunctanter imperium abrogatum est.
+                  Quid quidem plęrumque non expectato uniuersorum consensu uel a custodibus in
+                  tyrannum irrumpitur, uel uxor iugulat per quietem, uel amicorum liberorumue
+                  indignatione, aut spe commodorum et honoris, aut desiderio uindicandę
+                  liberatis ex improuiso tyrannicidia <pb n="xx"/> conficiantur?</p>
+            </sp>
+            <sp who="caesar">
+               <speaker>
+                  <abbr>CAES.</abbr>
+               </speaker>
+               <p>Quandiu expetuntur aliena auxilia blandiendum censeo: qua re
+                  sublata, imperio pro libidine uti conuenit: nimirum a bellis abstinere, parta
+                  iam dominatione, ex usu esse affirmare non dubitarim: nam dementis est, quum
+                  semel in tranquillo sis, in dubiam fortunae aleam proficisci, quę sępe dum
+                  tentatur, ut est inconstans, unico reflatu sua pulcherrima beneficia miserabili
+                  ruina inuoluit; si uero bella pręter opinionem ingruerint, ea legatis
+                  demandentur, quo pacto tuum periculum alieno periculo ueluti clauum clauo
+                  expelles.</p>
+            </sp>
+            <sp who="sylla">
+               <speaker>
+                  <abbr>SyL.</abbr>
+               </speaker>
+               <p>In easdem ansas incidisti, quinimmo fumum defugiens in flammam
+                  desilis. Quum inermes antea uel propinqui timerentur, copias tuas et robur
+                  tyrannidis firmissimumque uitę pręsidium alienę submittis potestati: tum
+                  prębentur arma ciuibus longa seruitute oppressis, uidelicet ut pręliis
+                  exacuantur et uictoriis animo erecti diutius pati iugum seruile dedignantes
+                  aperta ui se afferant in libertatem. Praeterea quum uita omnium posita in
+                  certamen esset agereturque de finibus imperii patrięque incolumitate atque is,
+                  cuius maxime interest in pugna praesentem adesse, in commune discrimen
+                  descendere neglexisset, quo animo tantam in periculis
+                  mollitiem
+                  
+                  <!-- premješteno! -->
                   <pb n="xx"/>
 ferret armata multitudo? temperaret a conuitiis? non diris execraretur? Sed quid
                     ego conuitia execrationesque commemorem? multi, per Iouem, inuenirentur <sic>Arbacti</sic>
                     qui regem adeo delicatum, adeo delibutum unguentis, nidore, corollis, meroque
                     redolentem Sycioniisque indutum calceis et ueste Coa inter mulierculas pensa
-                    <sic>parcientem</sic> una cum suis psaltriis, spintriis, tineis atque soricibus <sic>aule</sic> ad
-                    extremam desperationem compellerent. <sic>Set</sic> statuatur ciuitas non magis in odium
+                    <sic>parcientem</sic> una cum suis psaltriis, spintriis, tineis atque soricibus <choice><orig>aule</orig><corr resp="#ZS">aulae</corr></choice> ad
+                    extremam desperationem compellerent. <choice><orig>Set</orig><corr resp="#ZS">Sed</corr></choice> statuatur ciuitas non magis in odium
                     quam beneuolentiam propensa, tuique similis tyrannus appetentissimus laudis
                     existat, segetemque gloriae susceptis expeditionibus in bellicosas gentes non
                     per pręfectos caeterum pręsens ipse quaerat: profecto in summa ocii penuria non
@@ -1760,10 +1865,10 @@ ferret armata multitudo? temperaret a conuitiis? non diris execraretur? Sed quid
                     compellare, <corr>singulorum</corr> fidem atque uirtutem extollere, atque in iis dumtaxat
                     demonstrare spes omnes honoris fortunarumque sibi repositas esse, aliis multa
                     dare, omnibus plurima polliceri: uerum etiam accuratissima opera impendenda est
-                    (haec autem non ignarus alioqui expertissimo rerum huius modi recenseo, <sic>qui</sic> hic
+                    (haec autem non ignarus alioqui expertissimo rerum huius modi recenseo, <choice><orig>qui</orig><corr resp="#ZS">quod</corr></choice> hic
                     maxime locus poscere uideatur) ne commeatu prohibitus exercitus fame prius,
                     dehinc lue conficiatur: cuncta enim, quae casus uel necessitas attulerit aduersa,
-                    <sic>secordię</sic> imperatoris ascribentur: quae si grauiora fuerint quam aequo animo
+                    <choice><orig>secordię</orig><corr resp="#ZS">socordiae</corr></choice> imperatoris ascribentur: quae si grauiora fuerint quam aequo animo
                     ferri possint, undique concursus a militibus in auctorem certatim fiet illius
                     capite acerbitatem fortunae expiandam arbitrantibus. Iam reliqua consideremus
                     aeque curarum atque trepidationis plena. Omnibus intempesta nocte mortalibus
@@ -1777,10 +1882,10 @@ tabernaculo egressus, ne qua uel proditione uel <corr>ignauia</corr> excubiarum 
                     in soporem incumbentes monet, hortatur, precibus fatigat, diligenter posthac
                     obseruent, nequid per tenebras detrimenti negligentia ipsorum capiat exercitus:
                     nihil non exequitur et in castris mouendis quod <sic>uasa</sic> conclamata fuerint, et in
-                    iis metandis unde nulla necessitate prohiberi queat <corr>quominus</corr> quum <sic>liuerit</sic>
+                    iis metandis unde nulla necessitate prohiberi queat <corr>quominus</corr> quum <choice><orig>liuerit</orig><corr resp="#ZS">libuerit</corr></choice>
                     euadat. In itinere uero per antecursores explorantur hostium aduentus: hi
                     praemittuntur ad angustias, alii ad colles occupandos, alii iubentur in
-                    subsidium a tergo sequi. Interim sollicito de copiis et animis hostium <sic>oportune</sic>
+                    subsidium a tergo sequi. Interim sollicito de copiis et animis hostium <choice><orig>oportune</orig><corr resp="#ZS">opportune</corr></choice>
                     quispiam transfuga adducitur: is secreto interrogatus edocet <sic>sigillatim</sic> numerum
                     atque ferocitatem aduersariorum, ut prę magnitudine diuisis aciebus
                     ingrediantur: mox nunciatur adesse hostes in propinquo, magno instare impetu,
@@ -1792,7 +1897,7 @@ tumultuatur passim, suam quisque spem sua consilia secum agitat. Tyrannus intimi
                     pręcordiis compresso cruciatu, caeterum uultu spem simulans transfugam ex
                     composito in concionem producit: iubet omnes bono animo esse: nam aduersarios,
                     licet magno ueniant agmine, <sic>ficulnis</sic> tamen uiribus non esse timendos, puta
-                    maxima ex parte calones et lixas, <sic>ingenter</sic> scortorum greges in plaustris et
+                  maxima ex parte calones et lixas, <choice><orig>ingenter</orig><corr resp="#ZS">ingentes</corr></choice> scortorum greges in plaustris et
                     impedimenta circumnectantes: postremo confirmatis oratione militibus persuadet
                     ut non minus prędę quam pręlio sese accingant. Caeterum dum animo reuoluit
                     cataphractos equites et currus falcatos ac elephantes cum turribus, <corr>ad hęc</corr>
@@ -1804,100 +1909,6 @@ tumultuatur passim, suam quisque spem sua consilia secum agitat. Tyrannus intimi
                     triumphante imperatore donatiuum accipere ac epulo interesse; sin grauius
                     premet aduersarius, abiecta parmula cursu quam expeditissimo saluti consulere:
                     quem unaquęque latebra
-<pb n="xx"/>
-                  <corr>ni</corr> re facili iudicio, tum in alienis negociis ęstimandis incredibili temeritate
-                    uanaque ac inconsulta persuasione sępius ad poenitentiam usque laborantis: nam
-                    quos uenia dignos ob tenuem suspitionem arbitraris, ualentiores ad spes
-                    perficiendas indulgendo efficis: atque etiam quum suspecti habeantur, maturius
-                    metu se liberare uel periculoso facinore coguntur. Tunc illud pulcherrimum donum
-                    Cyclopis exemplo in pręmium benignitatis exitio proprio breui compensandum. Et
-                    quamuis complures a sumenda de scelerosis hominibus pęna causę cohiberent, ne
-                    tamen pendeas animi ac subinde circumspectes (quum pręsertim audierim uulgo
-                    dici malum esse custodem diuturnitatis metum), omnia ferro, flamma, ruina excidenda
-                    sunt, unde aliqua periculi suspitio apparuerit. </p>
-            </sp>
-            <sp who="sylla">
-               <speaker>
-                    SyLLA.</speaker>
-               <p>Recte ais, o Caesar,
-                    quando multa sunt in uita hominum turpiter et calamitose neglecta, emendatione
-                    tamen aliqua corrigi possunt: istius autem sceleris, si pręsens occasio
-                    negligatur, postea quum tanti ueneni uis continenter uetustate inualescens per
-                    capita multorum demanarit, nequicquam recuperandę facultas desiderabitur. At
-                    uereor ut omnibus abominantibus ac etiam extimescentibus tuam crudelitatem
-                    dicaris
-<pb n="xx"/>
-non obuiam ire flagitiis et improborum hominum ferociam legibus contundere,
-                    uerum plęraque fama circumferetur uel rapacitatis studio, uel inata sęuitia te
-                    caedibus in bonos ciues grassari, nec temperaturum ab huiusmodi feritate quoad
-                    uel unus supersit cuius uirtus formidolosa uideatur. Qua in spe uiuet populus
-                    singulis momentis expectans ad supplicia rapi? applaudent alacres tibi cruento
-                    sanguine popularium ac truculentissimae <corr>tygridis</corr> in morem saeuientis? quinimmo
-                    clandestinis imprecationibus deuouebunt et ex singulorum formidine commune
-                    odium in tyrannum procreabitur.</p>
-            </sp>
-            <sp who="caesar">
-               <speaker>
-                        CAESAR.</speaker>
-               <p> Oderint dum metuant: <corr>quę uis</corr> enim
-                    extimescenda est quum assistant delectarum cohortium praesidia,
-                    fortimissimisque stipatoribus latera circundentur?</p>
-            </sp>
-            <sp who="sylla">
-               <speaker>
-                  <abbr>SyL.</abbr>
-               </speaker>
-               <p>Falsus es, Caesar, ac toto (uti ferunt) aberras cęlo: siquidem ad tuendum et
-                        conseruandum regni statum nihil esse tam firmum, tam stabile, saepe
-                        compertum fuit, neque classes, neque exercitus, neque bellicas machinas,
-                        neque cum ingentibus thesauris arces munitissimas, quam est subditorum fauor
-                        atque beneuolentia; quę tamen cum plurimis beneficiis, tum uero iustis
-                        imperiis, et imprimis obsequio atque facilitate demerenda <pb n="xx"/> sunt:
-                        nihil aeque pestiferum gubernatoribus urbium arbitramur ac ubi ciuitas
-                        percussa metu odio in ipsum principem accenditur: scilicet ullę uires
-                        obstabunt quo minus imperio deiiciatur? dehinc extorris amissa patria et
-                        domo, si forte cum spiritu euaserit, miseram uitam exigat? certe nullę
-                        Dionysio Syracusano deerant opes ad stabiliendam tyrannidem pręter amorem
-                        ciuium, quamobrem turpiter eiectus <corr>apud</corr> alienos in sua
-                        calamitosa senectute ludibrio habitus est: nonne Macedones ob superbam
-                        dominationem Demetrium in bello deseruerunt? nunquid etiam simili de causa
-                        Tarquinius a nostris urbe non fuit exclusus? Caeterum inde facilius
-                            <sic>connicere</sic> licet quam friuolę sint opes tyrannorum, quippe
-                        triginta <sic>senissimi</sic> tyranni non potuerunt Athenis Thrasybulo, ciui
-                        exuli, resistere: ac (ut nostra rursus cum externis coniungamus) Romę
-                        decemuiris tyrannidem exercentibus haud cunctanter imperium abrogatum est.
-                        Quid quidem plęrumque non expectato uniuersorum consensu uel a custodibus in
-                        tyrannum irrumpitur, uel uxor iugulat per quietem, uel amicorum liberorumue
-                        indignatione, aut spe commodorum et honoris, aut desiderio uindicandę
-                        liberatis ex improuiso tyrannicidia <pb n="xx"/> conficiantur?</p>
-            </sp>
-            <sp who="caesar">
-               <speaker>
-                  <abbr>CAES.</abbr>
-               </speaker>
-               <p>Quandiu expetuntur aliena auxilia blandiendum censeo: qua re
-                    sublata, imperio pro libidine uti conuenit: nimirum a bellis abstinere, parta
-                    iam dominatione, ex usu esse affirmare non dubitarim: nam dementis est, quum
-                    semel in tranquillo sis, in dubiam fortunae aleam proficisci, quę sępe dum
-                    tentatur, ut est inconstans, unico reflatu sua pulcherrima beneficia miserabili
-                    ruina inuoluit; si uero bella pręter opinionem ingruerint, ea legatis
-                    demandentur, quo pacto tuum periculum alieno periculo ueluti clauum clauo
-                    expelles.</p>
-            </sp>
-            <sp who="sylla">
-               <speaker>
-                  <abbr>SyL.</abbr>
-               </speaker>
-               <p>In easdem ansas incidisti, quinimmo fumum defugiens in flammam
-                    desilis. Quum inermes antea uel propinqui timerentur, copias tuas et robur
-                    tyrannidis firmissimumque uitę pręsidium alienę submittis potestati: tum
-                    prębentur arma ciuibus longa seruitute oppressis, uidelicet ut pręliis
-                    exacuantur et uictoriis animo erecti diutius pati iugum seruile dedignantes
-                    aperta ui se afferant in libertatem. Praeterea quum uita omnium posita in
-                    certamen esset agereturque de finibus imperii patrięque incolumitate atque is,
-                    cuius maxime interest in pugna praesentem adesse, in commune discrimen
-                    descendere neglexisset, quo animo tantam in periculis
-                    <sic>mol</sic>
                   <!-- nešto ne štima -->
                   <pb n="xx"/>
 fideliter abscondit. Quod si etiam in manus hostium inciderit, paruo precio
@@ -1926,7 +1937,8 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                <speaker>
                   <abbr>CAES.</abbr>
                </speaker>
-               <p>fateor esse <sic>labore</sic> ingentes perferendos et maxima pericula: quae
+               <p>fateor esse <choice><orig>labore</orig><corr resp="#ZS">labores</corr></choice> ingentes 
+                  perferendos et maxima pericula: quae
                         tamen incredibilem gloriam pariunt: illa quidem choreas, conuiuia, somnum
                         ueluti pestem abominata per senticosa loca pendentesque rupes uagatur,
                         difficilis inuentu, difficilior apprehensu, plęrunque multis armatorum
@@ -1934,7 +1946,8 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         adeunda irritos mortalium conatus amplexu lubrico facit, nec aliter ferme
                         quam cruentum cędibus comitatur. Quocirca Sardanapalus et Xerxes, quum se
                         luxuriae et inertię dedissent, nullum sui celebre nomen posteris
-                        reliquerunt. At Semiramis, et <sic>Crius</sic> inclytis operibus gloriam
+                        reliquerunt. At Semiramis, et <choice><orig>Crius</orig><corr resp="#ZS">Cyrus</corr></choice> 
+                  inclytis operibus gloriam
                             <corr>immortalem</corr> assecuti sunt, quorum fama uigebit memoria
                         sęculorum sempiterna. Proinde qui propagationi nominis ac ęthernitati
                         student, uitam periculi obiectant, ut uno aut altero memorabili facinore
@@ -1945,7 +1958,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
             </sp>
             <sp who="sylla">
                <speaker>
-                  <abbr>SyL.</abbr>
+                  <abbr>Syl.</abbr>
                </speaker>
                <p>Haud facile dixerim uaniorem opinionem an magis pestilentem induerint
                         mortales: quae adeo altas ęgit radices, ita mentibus obcęcatis adhęsit, ut
@@ -2031,8 +2044,9 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         <corr>eisent</corr>, sancte pieque uixerunt, ad nullas uoluptatum illecebras
                         mente prostrata, hi pulcherrimas nacti possessiones cuiusuis męroris
                         expertes ocio foelicissimo fruuntur. Qui uero aut impudicis uoluptatibus
-                            <sic>uolutati</sic> sunt, aut alios afflixerunt iniuria, hos uel Ixionis
-                        radii <pb n="xx"/> dissecant, uel <sic>Tyciin</sic> uultur depascitur, uel
+                            uolutati sunt, aut alios afflixerunt iniuria, hos uel Ixionis
+                            radii <pb n="xx"/> dissecant, uel <choice><orig>Tyciin</orig><corr resp="#ZS">Tityi</corr></choice> 
+                  uultur depascitur, uel
                         saxum Sysiphi assidue reuoluendum delassat, uel hi Chymerę lacerandi
                         alligantur, uel obiiciuntur Cerbero in frusta dilaniandi.</p>
             </sp>
@@ -2068,8 +2082,9 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                </speaker>
                <p>Nihil refert dissimules an oblitus sis, nam utramque paginam legisti: magis
                         tamen putarim falli memoria, aut sane, quod uerisimilius est, ad huius modi
-                        collationem animum non adiecisse. Quippe ita natura delectatione <sic>totos
-                            proluunt</sic> quo pacto aliunde premantur non satis uideant, quod uel
+                        collationem animum non adiecisse. Quippe ita natura 
+                  <corr resp="#ZS">comparatum est ut qui se nimis in aliqua</corr> delectatione totos
+                            proluunt quo pacto aliunde premantur non satis uideant, quod uel
                         in uenatoribus et citharędis deprehenditur: <pb n="xx"/> illi studio
                         persequendarum ferarum allecti laboribus haud animum intendunt, hi, quum
                         pretermodum uocis harmonia capiantur, plęrumque fidium discordiam non recte
@@ -2081,18 +2096,21 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         reuocatus haud absimilem regiam urbi, quam in Atho monte metari
                         constituerat, ex Numidico, Pario, Laconico, Aegiptio, Dalmatico,
                         Porphyretico marmore ędificet, quam Athlas una, Hercules altera ex parte
-                        suis humeris sustineant, <sic>Phegite</sic> lapide transluceant parietes,
+                        suis humeris sustineant, <choice><orig>Phegite</orig><corr resp="#ZS">phengite</corr></choice> lapide transluceant parietes,
                         atque auro et ebore lacunaria collustrent: calcetur onix
-                        <sic>emplemate</sic> uermiculato sub conchiliatis peristromatis: multa
+                  <choice><orig>emplemate</orig><corr resp="#ZS">emblemate</corr></choice> uermiculato sub conchiliatis peristromatis: multa
                         uestis Attalica, multa Britannorum aulea uisantur, instratis splendide
                         accubitis cocco et bysso piloque leporino et plumis perdicum subalaribus ad
                         somnum suapte inuitantibus: adsint et <corr>Mentoris</corr> toreumata, et
                         signa Policleti, et Apellis tabellę, <corr>murrhina</corr> etiam atque
-                            <sic>cristalina</sic> uasa, et ingentes colossi Praxitelis <pb n="xx"/>
-                        opus, ad hęc qualia nec ędilitas <sic>M.pia</sic> uiderit, nec luxuriantis
+                  <choice><orig>cristalina</orig><corr resp="#ZS">crystalina</corr></choice> uasa, et 
+                  ingentes colossi Praxitelis <pb n="xx"/>
+                  opus, ad hęc qualia nec ędilitas 
+                  <choice><orig>M.pia</orig><corr resp="#ZS"><abbr>M.</abbr> Scauri</corr></choice> uiderit, nec luxuriantis
                         Luculli cupiditas exquisiuerit. Hic tu sub uite Bithinica lectis purpureis
-                        aureque picturatis discumbes; tum astabunt Niliaci structores, <sic>a
-                        cythos</sic> Hylas uel Ganymedes: non desiderabuntur Gratię, non Veneres, et
+                        aureque picturatis discumbes; tum astabunt Niliaci structores, <choice><orig>a
+                           cythos</orig><corr resp="#ZS">a cyatho</corr></choice> Hylas uel Ganymedes: 
+                  non desiderabuntur Gratię, non Veneres, et
                         Osiridis musae: frequenter se offeret Apicius, magister gulę, nouis
                         gannearum condimentis fastidientem stomachum irritans: spumabunt Cecuba
                         gemmeis identidem sitim ab ingressu prohibentia.</p>
@@ -2129,7 +2147,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         praesidiis et negociatoribus Romanis oppressam teneri. Iam classes in Lybico
                         mari tempestate submersę: quam multa <sic>laedoria</sic> liberę dicacitatis
                         deuoranda et ingrato decoquenda stomacho: <pb n="xx"/>
-                  <sic>…am</sic> etiam multi ciuiles motus bellorumque tumultus et nocturna
+                  <choice><orig>…am</orig><corr resp="#ZS">quam</corr></choice> etiam multi ciuiles motus bellorumque tumultus et nocturna
                         conuenticula deferuntur, hic insusurrat in aurem cauendum a medico grandi
                         pecunia corrupto, mox significatur uxorem nuptias cum adultero celebrasse
                         earumque pręmium tyranni cędem pactam esse. Interim plęrique semianimes
@@ -2139,7 +2157,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         huiusmodi, qualia singulis prope diebus unicuique tyranno accidunt, non
                         perturbareris, non animo concideres? nimirum, opinor, ab illa elegantia et
                         splendidis apparatibus oculi quam longissime auerterentur: palatus
-                            <sic>etiam num</sic> suauissimas dapes, omniaque lauticiarum lenocinia
+                  <choice><orig>etiam num</orig><corr resp="#ZS">etiamnum</corr></choice> suauissimas dapes, omniaque lauticiarum lenocinia
                         quasi cicutam refugeret. Pręterea non trepidares, non paueres crebro
                         suspiciens districtos enses et Samiata spicula de tectis aureis tenuissimo
                         filo ceruicibus impendentia? securitatem profecto cunctis huiusmodi molestis
@@ -2171,14 +2189,15 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                <p>Mirum quo processerit humana credulitas; <corr>quasi</corr> non gratior esset
                         diis innocentia pauperum <sic>impotenti</sic> regum dominatione, aut
                         fortasse minus accepta est thuris et uerbenarum incensio lactisque
-                        sacrifici, quam Hecatonbe superbę litationis uana ostentatio.</p>
+                        sacrifici, quam <choice><orig>Hecatonbe</orig><corr resp="#ZS">hecatombe</corr></choice> 
+                  superbę litationis uana ostentatio.</p>
             </sp>
             <sp who="caesar">
                <speaker>
                   <abbr>CAES.</abbr>
                </speaker>
                <p>Verisimile est deos magis gaudere quum immolantur armenta tanquam <sic>opipare</sic>
-                        cęntauros.</p>
+                  <choice><orig>cęntauros</orig><corr resp="#ZS">cenaturos</corr></choice>.</p>
             </sp>
             <sp who="sylla">
                <speaker>
@@ -2205,7 +2224,8 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         condicio <pb n="xx"/> nauigationi perquam similis esse, quę duobus fere
                         generibus nauigiorum perficiatur. Quidam admirati turritas naues bellicisque
                         machinis instructas undique uariis picturis puppes ornantibus ingentem illam
-                        molem, quę sibi ipsi oneri est, <sic>aegerum</sic> sulcaturi conscendunt:
+                        molem, quę sibi ipsi oneri est, <choice><orig>aegerum</orig><corr resp="#ZS">Aegaeaum</corr></choice> 
+                  sulcaturi conscendunt:
                         tum confestim scopulorum uitatis muricibus in altissimum pelagus abducuntur:
                         ibidem quantum imbre madescant, quam uehementibus exagitentur tempestatibus,
                         quam terribiliter balenas et orcas extimescant, quantas calamitates et
@@ -2233,7 +2253,8 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         tribuere nuper indicasti? Ecce Plutonem aspice, qui licet deus inferorum et
                         princeps uastissimi Tartari nigris tenebris ac tetra mucidaque caligine sit
                         amictus, <corr>ad haec</corr> quamuis Herebi, Terrę, Stygis, Acherontis,
-                        Cocyti, Lethes maxima pariter et horrenda sobole Demomorgonisque tota
+                        Cocyti, Lethes maxima pariter et horrenda sobole 
+                  <choice><orig>Demomorgonisque</orig><corr resp="#ZS">Demogorgonisque</corr></choice> tota
                         muniatur <sic>prosapia</sic>, qui peruigilibus excubiis faces et colubros
                         circumgestantes nullum locum in tota regia, <sic>quam</sic> uastissima est,
                         nullum angulum, nullam cellulam armariumque non attentissima cura
@@ -2248,15 +2269,18 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         <sic>suscudes</sic>, trabes, pilę, scapi, fornices, <sic>antes</sic>,
                         impagines, tympana, transuersaria, tigni aliaque insuper quotidie noua
                         fabricantur nunquam cessantibus operariorum familiis. An credis parum
-                        terreri praesidem umbrarum auaritiae cuniculis ne refossum baratharum prędae
-                        uastationique cupidissimę mortalitatis pateat? <sic>anque</sic> olim (ut
-                        fama est) ligonum sonitus ab Indis et Arimaspis <sic>exaudeisbantur</sic>
-                        magna <sic>Diis</sic> anxietate. Sed Herodotus <sic>belissimus</sic> rerum
+                        terreri praesidem umbrarum auaritiae cuniculis ne refossum <sic>baratharum</sic> prędae
+                        uastationique cupidissimę mortalitatis pateat? 
+                  <choice><orig>anque</orig><corr resp="#ZS">Iamque</corr></choice> olim (ut
+                  fama est) ligonum sonitus ab Indis et Arimaspis 
+                  <choice><orig>exaudeisbantur</orig><corr resp="#ZS">exaudiebantur</corr></choice>
+                  magna <choice><orig>Diis</orig><corr resp="#ZS">Ditis</corr></choice> anxietate. 
+                  Sed Herodotus <sic>belissimus</sic> rerum
                         nouarum architectus omnem istiusmodi metum abstulit, quum nunciasset a
                         tellure ob affinitatem, quę <corr>illi cum</corr> Plutone est, hic Gryphes,
                         illic formicas Molossi canis magnitudine ad custodiam auri procreatas,
                         quibus pertinaciter a nefaria cupiditate mortales <pb n="xx"/> ex
-                            <corr>Mirmeciis</corr> et <sic>Hippogeis</sic> arcerentur; propter quam
+                            <corr>Mirmeciis</corr> et <choice><orig>Hippogeis</orig><corr resp="#ZS">hypogeis</corr></choice> arcerentur; propter quam
                         merita insignis Herodoto figmentaria sella super omnes
                         <corr>logodedalos</corr> erecta est. Sed uehementer alia Ditem expectatio
                         perurit. Ad latus Nigritarum decliues campi sunt haud magno negocio
@@ -2268,7 +2292,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         animalium: hi quidem obsequentes auaritię et usquequaque mancipati cęco
                         amore cęca telluris uiscera laceraturi numquam conquiescent quoad uel omnes
                         interierint, uel aulam hanc principis inferorum in admodum abdito reconditam
-                        hiatu detexerint; unde <sic>quum</sic> scelera omnia grauissime uindicentur:
+                        hiatu detexerint; unde <choice><orig>quum</orig><corr resp="#ZS">cum</corr></choice> scelera omnia grauissime uindicentur:
                         nimirum cupidis Pluto non immerito succensus in auaritiam longe atrocius
                         animaduertit.</p>
             </sp>
@@ -2282,7 +2306,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                     uideatur, tamen iuuat errare (si modo qui error est), dum subit recordatio
                     <pb n="xx"/>
                     quo fęlicitatis fastigio rerum constiteram, sed plane nostra consilia de his
-                    irrita sunt, quibus <sic>dana</sic> nobis in uniuersum interdixere. Quin redeamus ad
+                    irrita sunt, quibus <choice><orig>dana</orig><corr resp="#ZS">fata</corr></choice> nobis in uniuersum interdixere. Quin redeamus ad
                     nostram rem, et tu iam <corr>cedas</corr> mihi, nisi mauis meas uires experiri.</p>
             </sp>
             <sp who="sylla">
@@ -2323,20 +2347,20 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         postquam desciuerint, cogere sub imperium rationis cum in primis magnę
                         difficultatis, tum omnium pulcherrimum atque laudatissimum est. Te uero,
                         Caesar, quis ignorauit Bithinicum <corr>fornicem</corr> olim assectatum in
-                        prętexta, dehinc <sic>prętaxatorum</sic> et matrum familias assectatorem
+                  prętexta, dehinc <choice><orig>prętaxatorum</orig><corr resp="#ZS">praetextatorum</corr></choice> et matrum familias assectatorem
                         impudicę gurgitem atque uoraginem impudicitię? cui tuę falacissimę libidines
                         per omnes gradus aetatis augescentes ac stupris nobilibus insignes non
                             <corr>poenę</corr> incredibiles uidentur? quę nisi cum uita (ne Papia
                         quidem lege perditae lasciuię fibulam imponente) non abierunt. Testatur hęc
                         tua caluities et uulgatissimum Thyestis nomen inustaque scomatis perpetua
                         infamię stygmata identidem a milite currum prosequente iactatis. Igitur
-                        audebis <sic>obiiere</sic> mihi tua flagitia, quę non excusantur aetatis
+                        audebis <choice><orig>obiiere</orig><corr resp="#ZS">obicere</corr></choice> mihi tua flagitia, quę non excusantur aetatis
                         imprudentia? maturum iudicio sibi tenacissimis nexibus obstrinxerant. Reor
                         optimum unicuique esse, priusquam alteri alumniam Theonino dente intendat,
                         sua facta circumspicere, atque (ut prouerbio dicitur) <pb n="xx"/> in
                         proprium inspuere sinum: impudentis enim est ac dissoluti hominis talionem
                         non uereri telaque in suum oppobrium reditura temere iaculari; nisi uero de
-                        genere <sic>lamiarum</sic> sis, ut progressurus in forum oculos inducas,
+                        genere <choice><orig>lamiarum</orig><corr resp="#ZS">Lamiarum</corr></choice> sis, ut progressurus in forum oculos inducas,
                         domi uero deponas, et idcirco cęcutias in rebus propriis, in alienis
                         oculatissimus appareas. Proinde quin coerces istam intempestiuam linguae
                         petulantiam et uallo dentium constringis, ne dum libera uagatur nouos tibi
@@ -2417,7 +2441,7 @@ et ob haec segnius telis se obiectante uexillum abripiendum et in armatorum
                         Treuiros ad deditionem compulisti: haud aliter Ariouistus quoque debellatus
                         est: sic etiam Belgę uicti iugum ciuitatis nostrae subiere. Caeterum si cum
                         enumeratis populis Vbii, Bellouaci, Suessiones, Neruii,
-                        <sic>Attrebates</sic>, Ambiani, Morini, Menapii, Bellocasses, Caleti,
+                  <choice><orig>Attrebates</orig><corr resp="#ZS">Atrebates</corr></choice>, Ambiani, Morini, Menapii, Bellocasses, Caleti,
                         Catuaci, Sidoci, Codrusi, Eburones, Aduatici, Armotici, ac Celae omnes, et
                         Aquitani omnesque Oceani accolę suas copias in unum agmen coegissent, quid,
                         Caesar, tuae cohortes potuissent sustinere tantas uires, quum olim

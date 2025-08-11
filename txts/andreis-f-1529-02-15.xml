@@ -4,18 +4,19 @@
          <titleStmt>
             <title ref="and02-p07-1529-02-15">Ad Iohannem Bonzagnum epistula, versio electronica</title>
             <author ref="http://www.wikidata.org/entity/Q16115490">
-               <persName xml:lang="hr">Andreis, Franjo Trankvil</persName>
+               <persName xml:lang="hr">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q16115490">Andreis, Franjo Trankvil</ref></persName>
                <date>1490-1571</date>
             </author>
             <editor>
                <persName>
-                  <ref type="viaf" target="47659421">Laszowski, Emilij</ref>
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q1337365">Laszowski, Emilij</ref>
                </persName>
             </editor>
             <respStmt>
                <resp>Hanc editionem electronicam curavit</resp>
                <persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
                </persName>
             </respStmt>
          </titleStmt>
