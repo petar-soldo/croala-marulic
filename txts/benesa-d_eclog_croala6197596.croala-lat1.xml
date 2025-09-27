@@ -69,7 +69,7 @@
                <term>1501-1550</term>
             </keywords>
             <keywords scheme="genre">
-               <term>poesis - bucolicon</term>
+               <term ref="http://www.wikidata.org/entity/Q11072974">poesis - ecloga</term>
             </keywords>
          </textClass>
       </profileDesc>

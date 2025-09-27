@@ -78,7 +78,7 @@
                <term>1751-1800</term>
             </keywords>
             <keywords scheme="genre">
-               <term>poesis - ecloga</term>
+               <term ref="http://www.wikidata.org/entity/Q11072974">poesis - ecloga</term>
             </keywords>
          </textClass>
       </profileDesc>
