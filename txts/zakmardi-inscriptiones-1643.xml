@@ -58,7 +58,7 @@
             </keywords>
             <keywords scheme="genre">
                <term>prosa oratio - inscriptio</term>
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - inscriptio</term>
             </keywords>
          </textClass>

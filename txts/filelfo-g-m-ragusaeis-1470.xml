@@ -70,7 +70,7 @@
                   <term>prosa - epistula</term>
                   <term>prosa - praefatio</term>
                   <term>poesis - epica</term>
-                  <term>poesis - elegia</term>
+                  <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                   <term>poesis - paratextus poetici</term>
               </keywords>
           </textClass>

@@ -67,7 +67,7 @@
             <keywords scheme="genre">
                <term>poesis - versio</term>
                <term>poesis - epica</term>
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - carmen</term>
                <term>prosa oratio - epistula</term>
                <term>prosa oratio - commentarius</term>

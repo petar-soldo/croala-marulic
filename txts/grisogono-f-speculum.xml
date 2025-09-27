@@ -84,7 +84,7 @@
                <term>prosa oratio - oratio</term>
                <term>prosa oratio - tractatus</term>
                <term>poesis - ode</term>
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - epigramma</term>
             </keywords>
          </textClass>

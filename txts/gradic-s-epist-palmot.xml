@@ -64,7 +64,7 @@
                <term>1651-1700</term>
             </keywords>
             <keywords scheme="genre">
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - epistula</term>
             </keywords>
          </textClass>

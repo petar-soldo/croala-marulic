@@ -68,7 +68,7 @@
                <term>1501-1550</term>
             </keywords>
             <keywords scheme="genre">
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - epigramma</term>
                <term>poesis - lyrica</term>
                <term>poesis - epica</term>

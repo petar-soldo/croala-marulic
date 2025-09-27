@@ -76,7 +76,7 @@
                <term>poesis - epigramma</term>
                <term>poesis - epistula</term>
                <term>poesis - hymnus</term>
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
             </keywords>
          </textClass>
       </profileDesc>

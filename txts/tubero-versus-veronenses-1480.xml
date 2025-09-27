@@ -131,7 +131,7 @@
             <keywords scheme="genre">
                <term>poesis - epicedion</term>
                <term>poesis - sapphicum</term>
-               <term>poesis - elegia</term>
+               <term ref="http://www.wikidata.org/entity/Q174864">poesis - elegia</term>
                <term>poesis - epigramma</term>
             </keywords>
          </textClass>
