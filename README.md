@@ -1,3 +1,7 @@
+# Exploring Marko Marulić
+
+This is a fork of the CroALa repository, used for an exam project.
+
 # Croatiae auctores Latini - texts #
 
 [![DOI](https://zenodo.org/badge/36577371.svg)](https://zenodo.org/badge/latestdoi/36577371)
@@ -48,3 +52,4 @@ On 2025-08-11 the collection contains:
 ### Editor ###
 
 * Neven Jovanović (nevenjovanovic), Department of Classical Philology, Faculty of Humanities and Social Sciences, University of Zagreb; [orcid.org/0000-0002-9119-399X](http://orcid.org/0000-0002-9119-399X)
+
