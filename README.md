@@ -4,11 +4,29 @@ This is a fork of the CroALa repository, used for an exam project for the [Scrip
 
 ## Scope and aim of the project
 
-TBA
+The main task of the project is to perform an "exploratory analysis of data" and "to (...) independently apply the programming techniques explored during the course".
+
+For this purpose, *CroALa* was chosen as a dataset to be analyzed and Marko Marulić as an author of particular interest.
+
+We set two goals for our project.
+
+1. Perform a short analysis of the documents in _CroALa_ based on their metadata.
+2. Perform a short text analysis of selected works by Marko Marulić.
+
+This is the approximate workflow:
+
+1. Create a Pandas dataframe with metadata from *CroALa* documents.
+2. Explore and visualize *CroALa* metadata.
+3. Extract and perfrom NLP processing of selected texts by Marko Marulić
+4. Perform simple data analysis and visualiation using text annotations.
 
 ## Contents
 
-TBA
+The main file is [the Juypter notebook of the project](https://github.com/petar-soldo/croala-marulic/blob/master/croala-marulus.ipynb) containing all the code with comments, explanations and refrences.
+
+Nice byproducts are the [metada data CSV](https://github.com/petar-soldo/croala-marulic/blob/master/croala_metadata.csv) file and [XLSX file](https://github.com/petar-soldo/croala-marulic/blob/master/croala_metadata.xlsx) where you can see the information extraxted from the XML files in a table view.
+
+Analysis and visualisation of the metadata can be found in the notebook, but will, hopefully, be available as a standalone report. Same goes for analysis of Marulić's works.
 
 ---
 
@@ -46,6 +64,7 @@ Below you can find an abridged version of the original README.md:
 >#### Editor ####
 >
 >* Neven Jovanović (nevenjovanovic), Department of Classical Philology, Faculty of Humanities and Social Sciences, University of Zagreb; [orcid.org/0000-0002-9119-399X](http://orcid.org/0000-0002-9119-399X)
+
 
 
 
